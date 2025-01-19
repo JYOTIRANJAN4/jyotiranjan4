@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JYOTIRANJAN BARIK</h1>
-## 💫 About Me:
+## 💫 About Me:👋 Hi there! I'm A 🎓 MCA Student | Aspiring Software Developer
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 🌱 I’m currently learning Python, AIML<br><br>🤝 I’m looking for help with Java<br><br>💬 Ask me about Python<br><br>📫 How to reach me zyotiranjan@gmail.com<br><br>⚡ Fun fact I Think I Am Funny
 
